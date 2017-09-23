@@ -1,0 +1,15 @@
+IMPORTANT INFORMATION..!!!!
+For Runnig this Project Use "Project.java" file and then Login Form will appear.
+[1]-For Admin Login:
+Username:apollo
+Password:apollo
+[2]-Patient ID will be Start from 101
+Since data is Stored in MS Access Start Patient ID after last paitient Record.
+[3]-Doctor ID will be Start from 201
+Since data is Stored in MS Access Start Doctor ID after last Doctor Record.
+[4]-Appointment ID will be start from 301
+Since data is Stored in MS Access Start Appointment ID after last Appointment Record.
+**Fill Patient ID and Doctor ID then use OK Button to Verify the Correct Record after that fill other entries and make appointment**
+---------------------------------------------------------------------------
+For Any Modification in Any Record,if ID number will be avilable then only modification will be done.
+----------------------------------------------------------------------------
